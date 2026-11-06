@@ -22,6 +22,8 @@
 
 </div>
 
+> 🇬🇧 **English:** Fahrzeug-Studio – browser-based FiveM vehicle editor for .ytd/.yft files – textures, 3D models and optimisation by SecuroX Inspect. Purchase and licensing exclusively at [shop.inspect.wtf](https://shop.inspect.wtf). Product details below are in German – questions are welcome on [Discord](https://discord.gg/inspect).
+
 <br>
 
 ## Überblick
