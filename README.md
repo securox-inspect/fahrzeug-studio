@@ -41,9 +41,11 @@ Ideal für Server-Teams und Entwickler, die regelmäßig Fahrzeuge einbauen und 
 | **Einzelbearbeitung** | Eine Datei im INSPECT Fahrzeug-Studio bearbeiten und speichern – ideal, wenn du nur ein Fahrzeug anpassen willst. | 4,99 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-einzelbearbeitung) |
 | **Vinewood-Ressource mit deinem Logo** | Keine eigene Schild-Ressource? Die fertige INSPECT Vinewood-Ressource – das Studio setzt dein Logo ein, du lädst sie startbereit herunter. | 9,99 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-vinewood-ressource) |
 | **3D-Modell-Pass** | FiveM-Fahrzeugmodelle (.yft) in 3D bearbeiten: Teile und Logos am Modell ausblenden, _hi.yft gekoppelt speichern. | ab 20,00 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-3d-modell-pass) |
+| **Custom-Prop-Pass** | Eigene Props aus Spawnname und PNG-Design bauen – als Custom- oder Replace-Ressource, sofort performant. | ab 20,00 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-custom-prop-pass) |
 | **Optimierer-Pass** | FiveM-Fahrzeuge, MLOs und Props automatisch unter 16 MiB bringen – ganze ZIPs in einem Durchgang. | ab 20,00 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-optimierer-pass) |
 | **Ressourcen-Baukasten-Pass** | Kleidungs-Ressourcen und Schilder aus PNG als fertige, startbereite FiveM-Ressource bauen. | ab 20,00 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-ressourcen-pass) |
 | **Textur-Editor-Pass** | Texturen von FiveM-Fahrzeugen bearbeiten: .ytd öffnen, Logos entfernen, Liveries, Bilder und Schriftzüge einsetzen. | ab 20,00 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-textur-editor-pass) |
+| **Verschlüsselungs-Pass** | FiveM-Lua-Scripts verschlüsseln – maximale Sicherheit, bleibt für FiveM lesbar. | ab 25,00 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-verschluesselung-pass) |
 | **Komplett-Pass**<br><sub>⭐ Empfehlung</sub> | Alle Funktionen des INSPECT Fahrzeug-Studios ohne Einschränkung – für beliebig viele Fahrzeuge, Props und Ressourcen. | ab 35,00 € | [Kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-komplett-pass) |
 
 ## Kompatibilität
@@ -154,6 +156,34 @@ Der 3D-Modell-Pass schaltet den 3D-Bereich des INSPECT Fahrzeug-Studios frei –
 </details>
 
 <details>
+<summary><b>Custom-Prop-Pass</b> · ab 20,00 €</summary>
+<br>
+
+Der Custom-Prop-Pass schaltet den Custom-Prop-Bereich des INSPECT Fahrzeug-Studios frei – für beliebig viele Props während der Laufzeit.
+
+Gib einen Spawnnamen ein, lade dein PNG-Design hoch und bekomme eine fertige, performante FiveM-Ressource zurück. Du wählst zwischen „Custom“ (neuer, eigener Prop mit eigenem Namen) und „Replace“ (ersetzt einen vorhandenen Prop).
+
+Alles läuft im Browser – ohne OpenIV, ohne Blender, ohne Installation. Bearbeitete Dateien liegen 7 Tage in deinem Kundenkonto zum Abruf bereit, deine Originaldateien bleiben auf deinem Rechner.
+
+- Eigene Props aus Spawnname + PNG-Design bauen
+- Custom (eigener Prop) oder Replace (vorhandenen ersetzen)
+- Sofort performant und sauber in FiveM nutzbar
+- Beliebig viele Props während der Laufzeit
+- Bearbeitete Dateien 7 Tage im Kundenkonto abrufbar
+- Originaldateien bleiben auf deinem Rechner
+- Läuft im Browser – ohne OpenIV, ohne Blender, ohne Installation
+
+| Laufzeit | Preis |
+|:--|--:|
+| 1 Tag | **20,00 €** |
+| 7 Tage | **42,99 €** |
+| 30 Tage | **59,99 €** |
+
+**[➜ Custom-Prop-Pass im Shop kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-custom-prop-pass)**
+
+</details>
+
+<details>
 <summary><b>Optimierer-Pass</b> · ab 20,00 €</summary>
 <br>
 
@@ -240,6 +270,36 @@ Textur bearbeiten: Logos mit Stempel, Muster und Zauberstab sauber entfernen, Bi
 | 30 Tage | **59,99 €** |
 
 **[➜ Textur-Editor-Pass im Shop kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-textur-editor-pass)**
+
+</details>
+
+<details>
+<summary><b>Verschlüsselungs-Pass</b> · ab 25,00 €</summary>
+<br>
+
+Der Verschlüsselungs-Pass schaltet den Verschlüsseln-Bereich des INSPECT Fahrzeug-Studios frei – für beliebig viele Scripts während der Laufzeit.
+
+Zieh eine .lua oder eine ganze Ressourcen-ZIP hinein und erhalte sie sauber verschlüsselt zurück. Das System erkennt selbst, welche Dateien verschlüsselt werden dürfen (Manifest, Config und NUI-Dateien bleiben lesbar), und wenn du FiveM angibst, bleibt alles nativ lesbar.
+
+Vier Stufen – von „Leicht“ (nur Namen, kein Laufzeit-Overhead) bis „Maximal“ mit Kontrollfluss-Verschleierung für höchste Sicherheit. Alles läuft im Browser, eigenständig, ohne Server-Abhängigkeit. Bearbeitete Dateien liegen 7 Tage in deinem Kundenkonto bereit, deine Originaldateien bleiben auf deinem Rechner.
+
+- FiveM-Lua-Scripts verschlüsseln/obfuskieren
+- Vier Stufen: Leicht, Mittel, Stark, Maximal (Kontrollfluss-Verschleierung)
+- Erkennt selbst, was verschlüsselt werden darf (Manifest/Config/NUI bleiben lesbar)
+- Einzelne .lua oder ganze Ressourcen-ZIP in einem Durchgang
+- Bleibt für FiveM nativ lesbar – eigenständig, ohne Server-Abhängigkeit
+- Beliebig viele Scripts während der Laufzeit
+- Bearbeitete Dateien 7 Tage im Kundenkonto abrufbar
+- Originaldateien bleiben auf deinem Rechner
+- Läuft im Browser – ohne Installation
+
+| Laufzeit | Preis |
+|:--|--:|
+| 1 Tag | **25,00 €** |
+| 7 Tage | **49,99 €** |
+| 30 Tage | **69,99 €** |
+
+**[➜ Verschlüsselungs-Pass im Shop kaufen](https://shop.inspect.wtf/produkt/fahrzeug-studio-verschluesselung-pass)**
 
 </details>
 
