@@ -63,10 +63,10 @@ Ideal für Server-Teams und Entwickler, die regelmäßig Fahrzeuge einbauen und 
   </tr>
   <tr>
     <td width="50%"><img src="assets/showcase/bild-4.png" alt="Fahrzeug-Studio – 3D-Modell-Pass" width="100%"></td>
-    <td width="50%"><img src="assets/showcase/bild-5.png" alt="Fahrzeug-Studio – Optimierer-Pass" width="100%"></td>
+    <td width="50%"><img src="assets/showcase/bild-5.png" alt="Fahrzeug-Studio – Custom-Prop-Pass" width="100%"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/showcase/bild-6.png" alt="Fahrzeug-Studio – Ressourcen-Baukasten-Pass" width="100%"></td>
+    <td width="50%"><img src="assets/showcase/bild-6.png" alt="Fahrzeug-Studio – Optimierer-Pass" width="100%"></td>
     <td width="50%"></td>
   </tr>
 </table>
